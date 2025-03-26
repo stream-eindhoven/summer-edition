@@ -4,5 +4,5 @@
     "main": "appSTREAMSummerFestival.worker.js",
     "compatibility_flags": [
         "nodejs_compat"
-    ],
+    ]
 }
