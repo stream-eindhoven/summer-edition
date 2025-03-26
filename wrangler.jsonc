@@ -1,5 +1,5 @@
 {
     "name": "stream",
     "compatibility_date": "2025-03-26",
-    "main": "appSTREAMSummerFestival.worker.ts"
+    "main": "appSTREAMSummerFestival.worker.js"
 }
