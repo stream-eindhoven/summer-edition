@@ -1,0 +1,5 @@
+{
+    "name": "appSTREAMSummerFestival",
+    "compatibility_date": "2025-03-26",
+    "main": "appSTREAMSummerFestival.worker.ts"
+}
